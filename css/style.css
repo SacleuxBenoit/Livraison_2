@@ -4,17 +4,20 @@
 }
 
 body{
-    background-color: #ffb997;
+    background-color: #c7f0db;
 }
+
+header{
+    /*background-image: url(../images/banner1.jpg);*/
+    background-repeat: no-repeat;
+    width: 500em;
+    height:4rem;
+}
+
 
 header nav ul li {
     float:left;
-    padding :2px 5px 20px 40px;
+    padding :20px 20px 20px 140px;
     list-style: none;
 }
 
-footer nav ul li {
-    float:left;
-    padding :2px 5px 20px 40px;
-    list-style: none;     
-}
