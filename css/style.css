@@ -7,18 +7,6 @@ body{
     background-color: #ffb997;
 }
 
-header{
-   /* background-image: url(../images/banner.jpg);
-    background-repeat: no-repeat;
-    background-position: top center;*/
-    height: 15rem;
-}
-.page{
-        width: 90%;
-        max-width: 800px;
-        margin: 0px auto;
-}
-
 header nav ul li {
     float:left;
     padding :2px 5px 20px 40px;
