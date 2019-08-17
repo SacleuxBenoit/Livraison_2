@@ -18,8 +18,8 @@ body{
 		
 header{
 	display:inline-block;
-	margin-left:30rem;
-	 background-color:#4dffb8;
+	display:flex;	
+ background-color:#4dffb8;
 
 }
 header h1 {
