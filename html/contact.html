@@ -29,8 +29,14 @@
     <h1>Veuillez remplir les champs ci-dessous pour nous contacter</h1>
     <form method="post" action="traitement.php">
  
-        
-     
+        <p>
+            Veuillez choisir votre docteur : 
+ 
+           
+            <input type="radio" name="doctor" value="James A. Harris" id="James A. Harris" /> <label for="James A. Harris">James A. Harris</label>
+            <input type="radio" name="doctor" value="Ryan J. Bolds" id="Ryan J. Bolds" /> <label for="Ryan J. Bolds">Ryan J. Bolds</label>
+        </p>
+        <p>
             <label for="nom">Quel est votre nom ?</label>
             <input type="text" name="nom" id="nom" />
      <br>
@@ -39,15 +45,9 @@
       <br>
             <label for="email">Quel est votre e-mail ?</label>
             <input type="email" name="email" id="email" />
+        </p>
      
-     
-            <p>
-                Veuillez choisir votre docteur : 
-     
-               
-                <input type="radio" name="doctor" value="James A. Harris" id="James A. Harris" /> <label for="James A. Harris">James A. Harris</label>
-                <input type="radio" name="doctor" value="Ryan J. Bolds" id="Ryan J. Bolds" /> <label for="Ryan J. Bolds">Ryan J. Bolds</label>
-            </p>
+            
       
             <p>
                 <label for="precisions">Veuillez indiquer votre problème ici</label>
