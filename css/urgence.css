@@ -47,7 +47,16 @@
                 color: 	#0077b3;   
                 font-size: 1rem;
         }
-        		
+        /* -------MAIN-------*/
+
+main{
+    padding-top: 5rem;
+    text-align: center;
+}
+
+ul{
+    font-size:1.7rem;
+}
 		/* -------FOOTER-------*/
 
 footer{
