@@ -49,7 +49,20 @@
     }
         /* -------MAIN-------*/
 
+        .presentation, .info{
+           
+            width:75%;
+            background-color:#4dffb8;
+            margin-top:5rem;
+            
+        }
         
+        .img-cabinet {
+            float:right;
+            width: 20rem;
+            height: 15rem;
+        }      
+
         /* -------FOOTER-------*/
 
 footer{
