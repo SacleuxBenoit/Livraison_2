@@ -49,9 +49,7 @@ nav a {
 }
 
 		/* -------MAIN-------*/
-section{
-	background-color:#35b0ab;
-}
+
 .doctor{
 	display:flex;
 	justify-content:center;
@@ -62,12 +60,12 @@ table {
 	display: flex;
 	border-collapse:collapse;
 	justify-content: center;
-       
     margin-top: 5rem;
     width: 100%;
 	font-size: 30px;
-
+	background-color:#35b0ab;
 }
+
 
 td, th{
 	border: 1px solid black;
