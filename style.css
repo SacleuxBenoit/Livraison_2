@@ -60,6 +60,9 @@ nav a {
 	height:34.4rem;
 	line-height:4rem;
 }
+a:visited{
+	color:blue;
+}
 
 .presentation, .info{
 	height:15rem;
