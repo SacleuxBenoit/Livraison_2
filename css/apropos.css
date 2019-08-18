@@ -10,7 +10,7 @@
         font-size:1.1rem;
     }
     body{
-        background-color:  #b3ffb3;
+        background-color:  #226b80;
     
     }
     
@@ -19,7 +19,7 @@
     header{
         display:inline-block;
         display:flex;
-         background-color:#4dffb8;
+         background-color:#35b0ab;
     
     }
     header h1 {
@@ -62,7 +62,7 @@
         /* -------FOOTER-------*/
 
 footer{
-	background-color:#4dffb8;
+	background-color:#35b0ab;
 	width:100%;
 	margin-top:8rem;
 }
