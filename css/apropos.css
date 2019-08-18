@@ -48,7 +48,17 @@
             font-size: 1rem;
     }
         /* -------MAIN-------*/
-        
+    main{
+        margin-top:2rem;
+    }
+    .margin{
+        margin-top:2rem;
+    }
+
+    h1, p{
+        text-align:center;
+    }
+
         /* -------FOOTER-------*/
 
 footer{
