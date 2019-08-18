@@ -10,7 +10,7 @@ p {
 	font-size:1.1rem;
 }
 body{
-	background-color:  #b3ffb3;
+	background-color:  #226b80;
 
 }
 
@@ -19,7 +19,7 @@ body{
 header{
 	display:inline-block;
 	display:flex;	
- background-color:#4dffb8;
+ background-color:#35b0ab;
 
 }
 header h1 {
@@ -54,7 +54,7 @@ nav a {
 }
 .aside-right{
 	float:right;
-	background-color:#4dffb8;
+	background-color:#35b0ab;
 	width:15%;
 	text-align:center;
 	height:34.4rem;
@@ -67,7 +67,7 @@ a:visited{
 .presentation, .info{
 	
 	width:75%;
-	background-color:#4dffb8;
+	background-color:#35b0ab;
 	margin-top:5rem;
 	
 }
