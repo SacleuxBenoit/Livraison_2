@@ -10,7 +10,7 @@ line-height: 2.2rem;
 	font-size:1.1rem;
 }
 body{
-	background-color:  #b3ffb3;
+	background-color:  #226b80;
 
 }
 
@@ -19,7 +19,7 @@ body{
 header{
 	display:inline-block;
 	display:flex;
-	 background-color:#4dffb8;
+	 background-color:#35b0ab;
 
 }
 header h1 {
@@ -59,7 +59,7 @@ table {
 	display: flex;
 	border-collapse:collapse;
 	justify-content: center;
-    color: #0b9c88;     
+       
     margin-top: 5rem;
     width: 100%;
 	font-size: 30px;
@@ -73,7 +73,7 @@ td, th{
 		/* -------FOOTER-------*/
 
 footer{
-	background-color:#4dffb8;
+	background-color:#35b0ab;
 	width:100%;
 	margin-top:8rem;
 }
