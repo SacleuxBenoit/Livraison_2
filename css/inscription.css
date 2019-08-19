@@ -52,7 +52,10 @@
     }
             /* -------MAIN-------*/   
             
-            
+    .background{
+        background-color:#35b0ab;
+    }
+
     		/* -------FOOTER-------*/
 
 footer{
